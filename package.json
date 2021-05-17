@@ -1,0 +1,16 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Primera entrega",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddy Perea eddyperea05@gmail.com",
+  "license": "ISC"
+}
